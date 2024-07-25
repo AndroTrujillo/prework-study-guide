@@ -21,7 +21,3 @@ https://www.edx.org/
 ## License
 
 Please refer to the LICENSE in the repo.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
