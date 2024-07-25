@@ -15,6 +15,7 @@ To use this Study Guide, you can review the notes in each section. For suggestio
 ## Credits
 
 https://bootcamp.learn.utoronto.ca/
+
 https://www.edx.org/
 
 ## License
