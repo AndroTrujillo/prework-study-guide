@@ -2,7 +2,7 @@
 
 ## Description
 
-I started to build this project as part of the Study Guide to learn and pass my Prework for boot camp. Learning basics of HTML, CSS, Git, and JS.
+Welcome to my Prework Study Guide! This project was created as part of my preparation for coding bootcamp. It serves as a comprehensive resource to help me learn and master the foundational skills required to pass the Prework phase. It focuses on the basics of HTML, CSS, Git, and JS.
 
 ## Installation
 
